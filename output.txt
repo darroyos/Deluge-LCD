@@ -1,0 +1,145 @@
+ 
+Name: 01 Tu Foto.mp3
+ID: 8ace59767e732d8f5170109df4248874c77a1ffd
+State: Queued
+Seeds: 0 (356) Peers: 0 (1) Availability: 0.00
+Size: 7.4 MiB/7.4 MiB Ratio: 0.000
+Seed time: 0 days 21:14:20 Active: 0 days 21:14:55
+Tracker status: leechers-paradise.org: Anuncio enviado
+ 
+Name: A.I. Intenligencia artificial [MicroHD][1080 px][AC3 5.1-Castellano-Ingles+Subs]
+ID: e019cff6458a4999c58925424e8682b73184bf66
+State: Seeding Up Speed: 0.0 KiB/s
+Seeds: 0 (9) Peers: 0 (1) Availability: 0.00
+Size: 5.9 GiB/5.9 GiB Ratio: 0.015
+Seed time: 0 days 03:55:25 Active: 0 days 06:33:30
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: Animales Nocturnos [MicroHD 1080p][AC3 5.1-DTS 5.1-Castellano-AC3 5.1 Ingles+Subs][ES-EN]
+ID: de2dfa6fa82c41e7dd102fe12c954299872fa218
+State: Queued
+Seeds: 0 (85) Peers: 0 (6) Availability: 0.00
+Size: 4.7 GiB/4.7 GiB Ratio: 0.092
+Seed time: 0 days 12:12:54 Active: 0 days 14:10:37
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: Billboard Hot 100 Singles Chart 02 July 2016
+ID: 7686d6de31881577e058a64bcad7730efbc41834
+State: Queued
+Seeds: 0 (393) Peers: 0 (24) Availability: 0.00
+Size: 789.8 MiB/789.8 MiB Ratio: 0.014
+Seed time: 0 days 20:25:32 Active: 0 days 21:13:13
+Tracker status: leechers-paradise.org: Anuncio correcto
+ 
+Name: Casi Leyendas [BluRay Rip][AC3 5.1 Español Castellano][2017]
+ID: f4edb503314cf775abd09579d14ba89ecafe1b12
+State: Queued
+Seeds: 0 (1049) Peers: 0 (121) Availability: 0.00
+Size: 2.1 GiB/2.1 GiB Ratio: 0.371
+Seed time: 0 days 05:29:00 Active: 0 days 06:37:33
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: Dirty Dancing [BLuRay Rip][AC3 2.0 Español Castellano][2017]
+ID: 77c5b99e04bf8e4ab2a71216ea811952dd995c81
+State: Queued
+Seeds: 0 (66) Peers: 0 (2) Availability: 0.00
+Size: 1.4 GiB/1.4 GiB Ratio: 0.015
+Seed time: 0 days 08:02:08 Active: 0 days 10:34:10
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: El Fundador [MicroHD 1080p][AC3 5.1-Castellano-AC3 5.1-Ingles+Subs][ES-EN]
+ID: b7085052e90346a90f68d7ebacb986ec022be3f9
+State: Downloading Down Speed: 922.9 KiB/s Up Speed: 16.8 KiB/s ETA: 1h 32m
+Seeds: 30 (2) Peers: 3 (1) Availability: 30.97
+Size: 18.5 MiB/4.9 GiB Ratio: 0.012
+Seed time: 0 days 00:00:00 Active: 0 days 00:00:43
+Tracker status: spanishtracker.com: Anuncio correcto
+Progress: 0.37% [~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~]
+ 
+Name: Es por tu bien [MicroHD 1080p][AC3 5.1-Castellano+Subs][ES-EN]
+ID: ee2abff5c0089acfff5c736af2fb5e3a84203f89
+State: Queued
+Seeds: 0 (678) Peers: 0 (48) Availability: 0.00
+Size: 3.6 GiB/3.6 GiB Ratio: 0.034
+Seed time: 0 days 08:44:53 Active: 0 days 10:33:32
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: Hacia.Rutas.Salvajes[DVDRip][Spanish][AC3 5.1][WwW.DivXaTope.CoM]
+ID: 31e6439fc4fae353b37e4001f71bba7237fd92fc
+State: Seeding Up Speed: 0.0 KiB/s
+Seeds: 0 (-1) Peers: 0 (-1) Availability: 0.00
+Size: 913.5 MiB/913.5 MiB Ratio: 0.008
+Seed time: 0 days 05:45:38 Active: 0 days 06:39:33
+Tracker status: thepiratebay.org: Error: 
+ 
+Name: Kong La Isla Calavera [BluRay Rip][AC3 5.1 Español Castellano][2017]
+ID: 92c916e128a61971b6f71dafd01e1f14db71d598
+State: Queued
+Seeds: 0 (310) Peers: 0 (27) Availability: 0.00
+Size: 2.1 GiB/2.1 GiB Ratio: 0.012
+Seed time: 0 days 08:51:50 Active: 0 days 10:36:07
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: Love.Actually.DVDRip.xvid
+ID: 2c3b3bc0d4d92e609783270471e618f0cdf4b9fe
+State: Seeding Up Speed: 0.0 KiB/s
+Seeds: 0 (-1) Peers: 0 (-1) Availability: 0.00
+Size: 1.4 GiB/1.4 GiB Ratio: 0.000
+Seed time: 0 days 05:04:48 Active: 0 days 06:32:59
+Tracker status: todotorrents.com: Error: 
+ 
+Name: Manchester frente al Mar [MicroHD 1080p][AC3 5.1-Castellano-AC3 5.1-Ingles+Subs][ES-EN]
+ID: 6e0e42bddeca21b98810799696ee1b6329e9d4ce
+State: Queued
+Seeds: 0 (101) Peers: 0 (11) Availability: 0.00
+Size: 4.8 GiB/4.8 GiB Ratio: 0.001
+Seed time: 0 days 13:03:33 Active: 0 days 14:11:16
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: Oldboy (2013) (HDRip) (EliteTorrent.net).avi
+ID: 45327b4a2d151504ce794020c168ce2c961584f8
+State: Seeding Up Speed: 0.0 KiB/s
+Seeds: 0 (4) Peers: 1 (1) Availability: 0.00
+Size: 1.7 GiB/1.7 GiB Ratio: 0.009
+Seed time: 0 days 12:52:05 Active: 0 days 14:21:00
+Tracker status: torrentbay.to: Anuncio enviado
+ 
+Name: The Official UK Top 40 Singles Chart (16th June 2017) Mp3.320kbps [Hunter]
+ID: 5789c32e3c0220b96c9b367297dddd87af792896
+State: Queued
+Seeds: 0 (653) Peers: 0 (54) Availability: 0.00
+Size: 334.8 MiB/334.8 MiB Ratio: 0.017
+Seed time: 0 days 20:55:11 Active: 0 days 21:13:35
+Tracker status: leechers-paradise.org: Anuncio correcto
+ 
+Name: Una Historia De Venganza [BluRay Rip][AC3 5.1 Español Castellano][2017]
+ID: 17cd9330bf49605407fd15ff5538d4867a9a39ba
+State: Queued
+Seeds: 0 (229) Peers: 0 (19) Availability: 0.00
+Size: 1.6 GiB/1.6 GiB Ratio: 0.002
+Seed time: 0 days 09:38:57 Active: 0 days 10:31:05
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: VA-Dance_Hits_Top_100_Vol.1-2CD-2017-VOiCE
+ID: 9ec8addb8d43211c180a6232a62bb8ba0bb74916
+State: Queued
+Seeds: 0 (107) Peers: 0 (3) Availability: 0.00
+Size: 284.4 MiB/284.4 MiB Ratio: 0.000
+Seed time: 0 days 19:07:26 Active: 0 days 19:25:19
+Tracker status: trackerfix.com: Anuncio correcto
+ 
+Name: Vikingos [BluRay Rip][AC3 2.0 Español Castellano][2017]
+ID: db76d08d3c006d7c3c5a01fe5fc1523535cea4d3
+State: Queued
+Seeds: 0 (460) Peers: 0 (15) Availability: 0.00
+Size: 2.3 GiB/2.3 GiB Ratio: 0.027
+Seed time: 0 days 08:08:55 Active: 0 days 10:34:25
+Tracker status: spanishtracker.com: Anuncio correcto
+ 
+Name: djcity
+ID: a5a58e6b509d548a5ed82989776c9fdb80ce5eb0
+State: Seeding Up Speed: 2.6 KiB/s
+Seeds: 0 (21) Peers: 1 (6) Availability: 0.00
+Size: 3.9 GiB/3.9 GiB Ratio: 0.026
+Seed time: 0 days 19:31:42 Active: 0 days 21:11:00
+Tracker status: leechers-paradise.org: Anuncio correcto

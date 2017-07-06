@@ -1,6 +1,8 @@
 # Deluge LCD for Raspberry Pi
 
-Python script for showing Deluge client downloading torrents on a I2C LED for Raspberry Pi
+Python script for showing Deluge client downloading torrents on a I2C LED for Raspberry Pi.
+
+![alt text](/pics/lcd-raspberry-pi-3.jpg)
 
 ## Getting Started
 
